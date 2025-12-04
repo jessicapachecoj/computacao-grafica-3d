@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pokemon1.obj</file>
+        <file>pokemon2.obj</file>
+    </qresource>
+</RCC>
